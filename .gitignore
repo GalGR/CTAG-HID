@@ -1,4 +1,5 @@
-*pcapng
+*.pcapng
+*.pcapng.gz
 *C_TAG-USB
 .vscode
 __pycache__
